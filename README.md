@@ -44,5 +44,12 @@ Demonstrates real‑world application of **AI + automation**, showcasing system 
 
 ---
 
+## 📌 License
+This project is open-source and available for learning and inspiration.  
+Feel free to fork and customize with proper credit.
+
+---
+
 **Author:** Sakshi Nigam  
+
 
