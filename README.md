@@ -3,7 +3,8 @@
 ![powered by FastAPI](https://img.shields.io/badge/Powered%20By-FastAPI-green)
 ![workflow n8n](https://img.shields.io/badge/Workflow-n8n-orange)
 ![ML scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-blue)
-![deployment vercel](https://img.shields.io/badge/Frontend-Vercel-black)
+![frontend react](https://img.shields.io/badge/Frontend-ReactJS-blue)
+![deployment vercel](https://img.shields.io/badge/Deployment-Vercel-black)
 ![license MIT](https://img.shields.io/badge/License-MIT-purple)
 
 AutoGenie is an AI‑powered predictive maintenance system that analyzes vehicle sensor data to predict potential failures and automatically trigger maintenance workflows.
@@ -44,3 +45,4 @@ Demonstrates real‑world application of **AI + automation**, showcasing system 
 ---
 
 **Author:** Sakshi Nigam  
+
